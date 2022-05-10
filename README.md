@@ -50,5 +50,6 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 ---
 
 ### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=kimsy254
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsy254)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimsy254&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
