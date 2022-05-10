@@ -14,6 +14,6 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <a href="https://www.compiteks.co.ke">
-    <img src="https://img.shields.io/badge/computer-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/compiteks-blue?style=for-the-badge&logo=computer&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
