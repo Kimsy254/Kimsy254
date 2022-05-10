@@ -30,6 +30,7 @@ I am a Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMp
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Kimani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/livingstone-kimani)
 ---
+### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Dango"  alt="Django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
