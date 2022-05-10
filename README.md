@@ -13,4 +13,7 @@
   <a href="https://twitter.com/stonekimani">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://www.compiteks.co.ke">
+    <img src="https://img.shields.io/badge/computer-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
