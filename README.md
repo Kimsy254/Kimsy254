@@ -5,7 +5,10 @@
 </h1>
   </div>
 
-
+<div align="center">
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="600" height="300"/>
+  
+</div>
 
 
 <div id="badges" align="center">
@@ -23,10 +26,7 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="600" height="300"/>
-  
-</div>
+
 
 ---
 
